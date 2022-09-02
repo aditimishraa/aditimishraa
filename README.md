@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditimishraa
+# 👋 Hi, I’m @aditimishraa
 - 👀 I’m interested in learning new things and develop technologies that are essential.
 - 🌱 I’m currently working on MERN and DSA. 
 - 💞️ I’m looking to collaborate on projects related to React.js and React Native.
